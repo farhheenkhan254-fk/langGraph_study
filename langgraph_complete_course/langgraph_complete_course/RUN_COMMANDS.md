@@ -1,0 +1,28 @@
+# Run command for every lesson (run from project root)
+
+- **First Graph**: `python -m src.langgraph.01_Basic_Graph.01_First_Graph.01_basic_graph`
+- **StateGraph**: `python -m src.langgraph.01_Basic_Graph.02_StateGraph.02_state_graph`
+- **State Management**: `python -m src.langgraph.01_Basic_Graph.03_State_Management.02_state_management`
+- **Nodes**: `python -m src.langgraph.01_Basic_Graph.04_Nodes.03_nodes`
+- **Edges**: `python -m src.langgraph.01_Basic_Graph.05_Edges.04_edges`
+- **START and END**: `python -m src.langgraph.02_Graph_Control_Flow.01_START_and_END.06_start_end`
+- **Conditional Edges**: `python -m src.langgraph.02_Graph_Control_Flow.02_Conditional_Edges.05_conditional_edges`
+- **Routing with Command**: `python -m src.langgraph.02_Graph_Control_Flow.03_Routing.08_command`
+- **Cycles and Loops**: `python -m src.langgraph.02_Graph_Control_Flow.04_Cycles_and_Loops.07_cycles_loops`
+- **Sequential Workflow**: `python -m src.langgraph.02_Graph_Control_Flow.05_Graph_Execution.basic_sequential_workflow`
+- **Parallel Execution with Send**: `python -m src.langgraph.02_Graph_Control_Flow.05_Graph_Execution.09_send_parallel`
+- **LLM Integration with Ollama**: `python -m src.langgraph.03_LLM_and_Tools.01_LLM_Integration.10_llm_integration`
+- **Tool Calling**: `python -m src.langgraph.03_LLM_and_Tools.02_Tool_Calling.11_tool_calling`
+- **ToolNode**: `python -m src.langgraph.03_LLM_and_Tools.03_ToolNode.12_tool_node`
+- **Tool Binding**: `python -m src.langgraph.03_LLM_and_Tools.04_Tool_Binding.13_tool_binding`
+- **Tool Execution**: `python -m src.langgraph.03_LLM_and_Tools.05_Tool_Execution.14_tool_execution`
+- **Agent Basics**: `python -m src.langgraph.04_Agent_Architecture.01_Agent_Basics.15_agent_basics`
+- **ReAct Agent**: `python -m src.langgraph.04_Agent_Architecture.02_ReAct_Agent.16_react_agent`
+- **Supervisor Agent**: `python -m src.langgraph.04_Agent_Architecture.03_Supervisor_Agent.17_supervisor_agent`
+- **Planner Agent**: `python -m src.langgraph.04_Agent_Architecture.04_Planner_Agent.18_planner_agent`
+- **Multi-Agent System**: `python -m src.langgraph.04_Agent_Architecture.05_Multi_Agent_System.19_multi_agent_system`
+- **Memory**: `python -m src.langgraph.05_Advanced_LangGraph.01_Memory.20_memory`
+- **Checkpointing**: `python -m src.langgraph.05_Advanced_LangGraph.02_Checkpointing.21_checkpointing`
+- **Human in the Loop**: `python -m src.langgraph.05_Advanced_LangGraph.03_Human_in_the_Loop.22_human_in_the_loop`
+- **Persistence and State History**: `python -m src.langgraph.05_Advanced_LangGraph.04_Persistence.23_persistence`
+- **Production Workflow**: `python -m src.langgraph.05_Advanced_LangGraph.05_Production_Workflow.24_production_workflow`
